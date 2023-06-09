@@ -1,0 +1,16 @@
+.app {
+    text-align: center
+}
+
+.mainControlText {
+    margin-left: 20px;
+    display: flex;
+    gap: 45%;
+}
+
+.mainControlDropDown {
+    display: flex;
+    justify-content: center;
+    gap: 800px;
+    margin-top: 40px;
+}
